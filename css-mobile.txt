@@ -1,0 +1,71 @@
+/* Header */
+.header nav h1{
+    float: none; 
+    text-align: center;
+}
+
+.header nav ul{
+    float: none; 
+}
+.header nav ul li{
+    float: none; 
+}
+.header nav ul li a{
+    padding: 10px;
+    text-align: center;
+}
+
+/*vp*/
+
+.vp{
+    padding-top: 50px;
+}
+
+.vp-content{
+    padding-top: 62px;
+}
+.vp-content h1{
+    font-size: 2rem;
+}
+
+/* Features */
+
+.feature{
+    float: none;
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+/*where*/
+
+.where{
+    padding: 50px 20px 50px 20px;
+    overflow: auto;
+    min-height: 100vh;
+ }
+
+.where-text {
+    float: none;
+    width: 100%;
+}
+
+.where-img {
+    float: none;
+    width: 100%;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-bottom: 3rem;
+    display: block;
+    margin: auto;
+}
+
+ /*contact*/
+ .contact{
+    padding: 50px 0px 0px 0px;
+    min-height: 100vh;
+ }
+
+ .contact-form-container{
+    max-width: 300px;
+    margin: auto;
+}
